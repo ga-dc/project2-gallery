@@ -1,3 +1,3 @@
-**Production URL:**
-**Repository:**
-**Screencast:**
+Production URL:
+Repository:
+Screencast:
